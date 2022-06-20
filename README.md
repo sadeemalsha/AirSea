@@ -1,5 +1,6 @@
 # AirSea
-This airline reservation system helps Airline Company to maintain the efficient scheduling of different flights, routes. This system provides the different information to the passenger like flight no, flight time, route, price etc. It provides to the passenger the ability to book a flight and pay it It also provides the information about the available seat in each class such as economy as well as first class
+ Airline reservation system using Java
+This system helps Airline Company to maintain the efficient scheduling of different flights, routes. This system provides the different information to the passenger like flight no, flight time, route, price etc. It provides to the passenger the ability to book a flight and pay it It also provides the information about the available seat in each class such as economy as well as first class
 There are two kinds of users for the Airline Reservation System. 
 -The administrator:
 has to login first in order to be able to make changes to the Airline Reservation System.
